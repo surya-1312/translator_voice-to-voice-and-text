@@ -1,3 +1,22 @@
-download the image from resorce folder and give the required path from your download files.then run the program and used this
+This project is used to convert your voice into any language and then give output in translated text and voice also.
 
-it convert the voice in any language and then give output in translated text and voice
+Setup and Installation part :
+
+some python libraries to install for run this project:
+
+Step 1- Run These commands in your terminal-
+
+pip install tk
+pip install SpeechRecognition
+pip3 install googletrans==3.1.0a0
+step 2- Open the resource folder from this repo- and download the image from this folder in your system.
+
+step 3 - Add the image path in the code.
+
+our setup and installation part is completed.
+
+After the competition of setup and installation part run the code.
+
+Then click on speak button and start to speak the sentence after that speak the language name in which you want to translate the sentence.
+
+Some samples of output:
