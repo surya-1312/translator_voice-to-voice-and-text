@@ -1,6 +1,6 @@
 This project is used to convert your voice into any language and then give output in translated text and voice also.
 
-Setup and Installation part :
+**Setup and Installation part :**
 
 some python libraries to install for run this project:
 
@@ -12,6 +12,11 @@ Step 1- Run These commands in your terminal-
 
 3.pip3 install googletrans==3.1.0a0
 
+4.pip install gTTS
+
+5.pip install playsound
+
+
 step 2- Open the resource folder from this repo- and download the image from this folder in your system.
 
 step 3 - Add the image path in the code.
@@ -22,4 +27,4 @@ After the competition of setup and installation part run the code.
 
 Then click on speak button and start to speak the sentence after that speak the language name in which you want to translate the sentence.
 
-Some samples of output:
+**Some samples of output:**
