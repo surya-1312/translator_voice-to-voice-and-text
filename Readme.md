@@ -6,9 +6,10 @@ some python libraries to install for run this project:
 
 Step 1- Run These commands in your terminal-
 
-pip install tk
-pip install SpeechRecognition
-pip3 install googletrans==3.1.0a0
+1.pip install tk
+2.pip install SpeechRecognition
+3.pip3 install googletrans==3.1.0a0
+
 step 2- Open the resource folder from this repo- and download the image from this folder in your system.
 
 step 3 - Add the image path in the code.
